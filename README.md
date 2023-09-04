@@ -15,3 +15,5 @@ I gained an understanding of the following material:
  - Data extraction from large .xz files
 
 <img width="600" src="https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png">
+
+This project was achieved with the help of several articles and educational resources. 
